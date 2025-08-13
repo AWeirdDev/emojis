@@ -9,3 +9,9 @@ Some call them Noto or whatever. Anyhow, let's say you want to use the `📦` em
 ```markdown
 https://aweirddev.github.io/emojis/google/📦.png
 ```
+
+To get a list of all available emojis for Google Noto, use:
+
+```markdown
+https://aweirddev.github.io/emojis/google/emojis.json
+```
